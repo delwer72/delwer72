@@ -1,88 +1,164 @@
 <!-- Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=MD%20Delwer%20Hussain&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00B4DB,100:0083B0&text=MD%20Delwer%20Hussain&fontSize=45&fontAlignY=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;SEO+Expert;Next.js+Learner" />
-</p>
+<h1 align="center">Hi 👋, I'm MD Delwer Hussain</h1>
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR-ID?v=4" width="120" style="border-radius:50%" />
-</p>
-
-<h2 align="center">MD Delwer Hussain</h2>
-<h4 align="center">Frontend Developer | SEO Expert</h4>
+<h3 align="center">
+MERN Stack Developer | Frontend Developer | SEO Specialist
+</h3>
 
 <p align="center">
-📍 Bangladesh | 📧 mddelwerhussain93@gmail.com
+Passionate about building modern, scalable and user-friendly web applications using the MERN Stack.
 </p>
 
 ---
 
-## 🚀 About Me
+# 📍 Contact Information
 
-I am a passionate frontend developer and SEO expert who loves building fast, modern, and user-friendly web applications.
+📍 **Location:** Bangladesh
 
-- 🔭 I’m currently working on a Tourism Website  
-- 🌱 I’m exploring Next.js  
-- 💡 Working with SEO for Law Firm Websites  
-- ⚡ I focus on performance & clean UI  
+📧 **Email:** mddelwerhussain93@gmail.com
 
----
-
-## 🛠️ Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,mongodb,git,github&perline=5" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Auth-BetterAuth-blueviolet?style=for-the-badge&logo=auth0&logoColor=white" />
-</p>
+📞 **Phone:** +8801XXXXXXXXX
 
 ---
 
-## 🌐 Connect With Me
+# 👨‍💻 About Me
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Snapchat-yellow?style=for-the-badge&logo=snapchat"></a>
-</p>
+I'm a passionate MERN Stack Developer with a strong interest in building responsive, scalable, and user-friendly web applications.
 
----
+I enjoy solving real-world problems through clean code and continuously improving my development skills by learning modern technologies.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
-</p>
+Currently, I'm focusing on React, Next.js, Node.js, Express.js, MongoDB, and REST APIs while also enhancing my UI/UX and performance optimization knowledge.
 
 ---
 
-## 🔥 Contribution Graph
+# 🚀 Current Activities
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night" />
+- 🔭 Currently building a **Tourism Website**
+- 🌱 Learning **Next.js**
+- 💻 Exploring **TypeScript**
+- ⚡ Practicing Data Structures & Algorithms
+- 🎯 Looking for MERN Stack Developer opportunities
+- 📚 Improving Backend Development skills
+
+---
+
+# 💻 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nextjs" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+## Tools & Others
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 </p>
 
 ---
 
-## 👀 Profile Views
+# 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile+Views&color=blue&style=flat" />
+<p align="left">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-url/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="https://twitter.com/your-twitter">
+<img src="https://skillicons.dev/icons?i=twitter" width="48"/>
+</a>
+
+<a href="https://your-portfolio-url.com">
+<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+</a>
+
 </p>
 
 ---
+
+# 📌 Featured Projects
+
+### 🌍 Tourism Website
+
+Responsive tourism website built with React, Firebase and MongoDB.
+
+### 👨‍🏫 Tutor Booking System
+
+A full-featured tutor booking platform developed using the MERN Stack.
+
+### 🛠 DigiTools Platform
+
+A modern tools platform developed with React and Tailwind CSS.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile ❤️
+
+</p>
