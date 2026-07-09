@@ -11,18 +11,18 @@ MERN Stack Developer | Frontend Developer | SEO Specialist
 </h3>
 
 <p align="center">
-Passionate about building modern, scalable and user-friendly web applications using the MERN Stack.
+Passionate about building modern, scalable, and user-friendly web applications using the MERN Stack.
 </p>
 
 ---
 
 # 📍 Contact Information
 
-📍 **Location:** Bangladesh
+📍 **Location:** Dhaka, Bangladesh
 
 📧 **Email:** mddelwerhussain93@gmail.com
 
-📞 **Phone:** +8801XXXXXXXXX
+📞 **Phone:** +880 1739-721644
 
 ---
 
@@ -30,9 +30,9 @@ Passionate about building modern, scalable and user-friendly web applications us
 
 I'm a passionate MERN Stack Developer with a strong interest in building responsive, scalable, and user-friendly web applications.
 
-I enjoy solving real-world problems through clean code and continuously improving my development skills by learning modern technologies.
+I enjoy solving real-world problems through clean code and continuously improving my development skills by learning modern web technologies.
 
-Currently, I'm focusing on React, Next.js, Node.js, Express.js, MongoDB, and REST APIs while also enhancing my UI/UX and performance optimization knowledge.
+Currently, I'm focusing on React, Next.js, Node.js, Express.js, MongoDB, and REST APIs while strengthening my backend development and UI/UX design skills.
 
 ---
 
@@ -49,19 +49,19 @@ Currently, I'm focusing on React, Next.js, Node.js, Express.js, MongoDB, and RES
 
 # 💻 Tech Stack
 
-## Frontend
+## 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nextjs" />
 </p>
 
-## Backend
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-## Tools & Others
+## 🛠 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
@@ -73,20 +73,20 @@ Currently, I'm focusing on React, Next.js, Node.js, Express.js, MongoDB, and RES
 
 <p align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/delwer72" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-url/">
+<a href="https://www.linkedin.com/feed/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
-<a href="https://twitter.com/your-twitter">
+<a href="https://x.com/delwer72" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter" width="48"/>
 </a>
 
-<a href="https://your-portfolio-url.com">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+<a href="https://www.facebook.com/delwer72" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
@@ -101,21 +101,21 @@ Responsive tourism website built with React, Firebase and MongoDB.
 
 ### 👨‍🏫 Tutor Booking System
 
-A full-featured tutor booking platform developed using the MERN Stack.
+A complete MERN Stack tutor booking platform with authentication and booking management.
 
 ### 🛠 DigiTools Platform
 
-A modern tools platform developed with React and Tailwind CSS.
+A collection of useful web tools developed using React and Tailwind CSS.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=delwer72&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwer72&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -125,7 +125,7 @@ A modern tools platform developed with React and Tailwind CSS.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=delwer72&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,7 +135,7 @@ A modern tools platform developed with React and Tailwind CSS.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=delwer72&theme=tokyo-night"/>
 
 </p>
 
@@ -145,20 +145,16 @@ A modern tools platform developed with React and Tailwind CSS.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=delwer72&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💬 Favorite Quote
 
-> *"First, solve the problem. Then, write the code."* – John Johnson
+> **"First, solve the problem. Then, write the code." – John Johnson**
 
 ---
 
-<p align="center">
-
-### Thanks for visiting my profile ❤️
-
-</p>
+<h3 align="center">Thanks for visiting my GitHub profile! ❤️</h3>
